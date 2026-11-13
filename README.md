@@ -4,7 +4,8 @@
 > 결함이나 제안은 이 저장소의 **Issues**(`결함 보고` 양식)에 남겨 주세요.
 
 ## 접속 정보
-- **시연 주소(Tailscale 망 안 전용)**: `https://desktop-ai.tail17cde2.ts.net:8443/` (로컬: `http://127.0.0.1:5175`)
+- **GitHub Pages 시연 주소 (누구나 접속)**: https://jkshin0009-art.github.io/opus-fin-api-verify/
+- **Tailscale 실서버 주소 (망 안 전용)**: `https://desktop-ai.tail17cde2.ts.net:8443/` (로컬: `http://127.0.0.1:5175`)
 - **데모 계정**: `bill@opuslane.kr` / `Opus1234!`
 
 ---
